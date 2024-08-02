@@ -1,0 +1,8 @@
+@charset "utf-8";
+.col-xl-2.col-lg-3.col-11 .logo img {
+    display: inherit;
+    max-width: 300px;
+    max-height: 200px;
+
+
+}
